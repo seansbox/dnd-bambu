@@ -17,3 +17,8 @@ Workflow for printing miniatures for D&amp;D, Daggerheart, etc. on Bambu Labs A1
     3. Select the new cube, then click the **Scale** tool button. *(Or just press the **s** key.)*
     4. Uncheck **unform scale**, set the Z to **match the mini**, and set the X and Y to **10mm**.
     5. Press the **a** key to auto-arrange the objects. Use the arrow keys to move the tower behind the mini. *(We don't want a tower right in front of our mini!)*
+
+## Additional Information
+
+- [Bambu Filament Guide - Web](https://bambulab.com/en/filament-guide)
+- [Bambu Filament Guide - PDF](filament-guide-en.pdf)
